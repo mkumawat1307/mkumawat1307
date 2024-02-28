@@ -2,7 +2,7 @@
 🔭 I’m currently working on Surveillance and Incident response project<br>🌱 I’m currently learning Data Science & Machine Learning<br>👯 I’m looking to work Collaboratory on Data Science/Machine Learning open source projects.<br>💬 Ask me about Ask me about Python, Flask Web Development, Statistics, Machine Learning algorithms, Exploratory Data Analysis, AWS Project Deployment, MongoDB, MySQL<br>📫 How to reach me :- mkumawat1307@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumawat-946672200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-kumawat-946672200" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mkumawat1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mkumawat1307" height="30" width="40" /></a>
